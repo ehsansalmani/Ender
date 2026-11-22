@@ -1,0 +1,6 @@
+python ender.py -u example.com
+python ender.py -u example.com -o out.txt
+python ender.py -list domains.txt -o out.txt
+python ender.py -show 
+python ender.py -set all yes 
+python ender.py -set gau no 
